@@ -11,4 +11,4 @@ six==1.14.0
 python-dateutil==2.8.1
 pytz==2019.3
 scikit-learn==1.0.2
-cv2==4.7.0
+opencv-python==4.7.0
