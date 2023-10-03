@@ -1,0 +1,51 @@
+age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,htn,dm,cad,appet,pe,ane,target
+48.0,80.0,1.005,4.0,0.0,abnormal,abnormal,notpresent,present,133.0,139.0,8.5,132.0,5.5,10.3,36,	6200,4,no,yes,no,good,yes,no,1
+62.0,70.0,1.025,3.0,0.0,normal,abnormal,notpresent,notpresent,122.0,42.0,1.7,136.0,4.7,12.6,39,7900,3.9,yes,yes,no,good,no,no,1
+76.0,70.0,1.015,3.0,4.0,normal,abnormal,present,notpresent,,164.0,9.7,131.0,4.4,10.2,30,11300,3.4,yes,yes,yes,poor,yes,no,1
+51.0,100.0,1.015,2.0,0.0,normal,normal,notpresent,present,93.0,20.0,1.6,146.0,4.5,,,,,no,no,no,poor,no,no,1
+79.0,80.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,111.0,44.0,1.2,146.0,3.6,16.3,40,8000,6.4,no,no,no,good,no,no,0
+44.0,90.0,1.01,1.0,0.0,,normal,notpresent,notpresent,,20.0,1.1,,,15.0,48,,,no,	no,no,good,no,no,1
+61.0,60.0,1.025,0.0,0.0,,normal,notpresent,notpresent,108.0,75.0,1.9,141.0,5.2,9.9,29,8400,3.7,yes,yes,no,good,no,yes,1
+45.0,70.0,1.01,2.0,0.0,,normal,notpresent,notpresent,113.0,93.0,2.3,,,7.9,26,5700,,no,no,yes,good,no,yes,1
+55.0,80.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,130.0,50.0,1.2,147.0,5.0,15.5,41,9100,6.0,no,no,no,good,no,no,0
+61.0,80.0,1.02,0.0,0.0,,normal,notpresent,notpresent,131.0,23.0,0.8,140.0,4.1,11.3,35,,,no,no,no,good,no,no,1
+54.0,60.0,,3.0,,,,notpresent,notpresent,125.0,21.0,1.3,137.0,3.4,15.0,46,,,yes,yes,no,good,yes,no,1
+70.0,100.0,1.015,4.0,0.0,normal,normal,notpresent,notpresent,118.0,125.0,5.3,136.0,4.9,12.0,37,	8400,8.0,yes,no,no,good,no,no,1
+56.0,90.0,1.015,2.0,0.0,abnormal,abnormal,notpresent,notpresent,129.0,107.0,6.7,131.0,4.8,9.1,29,6400,3.4,yes,no,no,good,no,no,1
+43.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,114.0,32.0,1.1,135.0,3.9,,42,,,no,no,no,good,no,no,0
+83.0,70.0,1.02,3.0,0.0,normal,normal,notpresent,notpresent,102.0,60.0,2.6,115.0,5.7,8.7,26,12800,3.1,yes,no,no,poor,no,yes,1
+29.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,83.0,49.0,0.9,139.0,3.3,17.5,40,9900,4.7,no,no,no,good,no,no,0
+71.0,70.0,1.025,0.0,0.0,,,notpresent,notpresent,79.0,47.0,0.5,142.0,4.8,16.6,40,5800,5.9,no,no,no,good,no,no,0
+50.0,70.0,1.02,0.0,0.0,,normal,notpresent,notpresent,109.0,32.0,1.4,139.0,4.7,,,,,no,no,no,poor,no,no,1
+38.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,99.0,19.0,0.5,147.0,3.5,13.6,44,7300,6.4,no,no,no,good,no,no,0
+69.0,70.0,1.01,4.0,3.0,normal,abnormal,present,present,214.0,96.0,6.3,120.0,3.9,9.4,28,11500,3.3,yes,yes,yes,good,yes,yes,1
+90.0,90.0,1.025,1.0,0.0,,normal,notpresent,notpresent,139.0,89.0,3.0,140.0,4.1,12.0,37,7900,3.9,yes,yes,no,good,no,no,1
+73.0,80.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,118.0,44.0,0.7,137.0,3.5,14.8,45,9300,4.7,no,no,no,good,no,no,0
+45.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,117.0,46.0,1.2,137.0,5.0,16.2,45,8600,5.2,no,no,no,good,no,no,0
+43.0,80.0,1.015,2.0,3.0,,abnormal,present,present,,30.0,1.1,,,14.0,42,14900,,no,no,no,good,no,no,1
+73.0,80.0,1.02,2.0,0.0,abnormal,abnormal,notpresent,notpresent,253.0,142.0,4.6,138.0,5.8,10.5,33,7200,4.3,yes,yes,yes,good,no,no,1
+65.0,70.0,1.01,2.0,0.0,,normal,present,notpresent,112.0,73.0,3.3,,,10.9,37,,,no,no,no,good,no,no,1
+44.0,70.0,,,,,,notpresent,notpresent,106.0,25.0,0.9,150.0,3.6,15.0,50,9600,6.5,no,no,no,good,no,no,0
+35.0,60.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,105.0,39.0,0.5,135.0,3.9,14.7,43,5800,6.2,no,no,no,good,no,no,0
+52.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,125.0,22.0,1.2,139.0,4.6,16.5,43,4700,4.6,no,no,no,good,no,no,0
+56.0,90.0,1.01,4.0,1.0,normal,abnormal,present,notpresent,176.0,309.0,13.3,124.0,6.5,3.1,9,5400,2.1,yes,yes,no,poor,yes,yes,1
+67.0,80.0,1.01,1.0,3.0,normal,abnormal,notpresent,notpresent,182.0,391.0,32.0,163.0,39.0,,,,,no,no,no,good,yes,no,1
+30.0,80.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,82.0,42.0,0.7,146.0,5.0,14.9,45,9400,5.9,no,no,no,good,no,no,0
+24.0,80.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,125.0,,,136.0,3.5,15.4,43,5600,4.5,no,no,no,good,no,no,0
+54.0,100.0,1.015,3.0,0.0,,normal,present,notpresent,162.0,66.0,1.6,136.0,4.4,10.3,33,,,yes,yes,no,poor,yes,no,1
+75.0,60.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,110.0,50.0,0.7,135.0,5.0,14.3,40,8300,5.8,no,no,no,,,,0
+57.0,60.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,105.0,49.0,1.2,150.0,4.7,15.7,44,10400,6.2,no,no,no,good,no,no,0
+73.0,100.0,1.01,3.0,2.0,abnormal,abnormal,present,notpresent,295.0,90.0,5.6,140.0,2.9,9.2,30,7000,3.2,yes,yes,yes,poor,no,no,1
+,70.0,1.01,3.0,0.0,normal,normal,notpresent,notpresent,110.0,115.0,6.0,134.0,2.7,9.1,26,9200,3.4,yes,yes,no,poor,no,no,1
+6.0,60.0,1.01,4.0,0.0,abnormal,abnormal,notpresent,present,94.0,67.0,1.0,135.0,4.9,9.9,30,16700,4.8,no,no,no,poor,no,no,1
+57.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,133.0,48.0,1.2,147.0,4.3,14.8,46,6600,5.5,no,no,no,good,no,no,0
+17.0,60.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,114.0,50.0,1.0,135.0,4.9,14.2,51,7200,5.9,no,no,no,good,no,no,0
+54.0,70.0,,,,,,notpresent,notpresent,111.0,146.0,7.5,141.0,4.7,11.0,35,8600,4.6,no,no,no,good,no,no,1
+53.0,60.0,,,,,,notpresent,notpresent,91.0,114.0,3.25,142.0,4.3,8.6,28,11000,3.8,yes,yes,no,poor,yes,yes,1
+65.0,70.0,1.01,0.0,0.0,,normal,notpresent,notpresent,93.0,66.0,1.6,137.0,4.5,11.6,36,11900,3.9,no,yes,no,good,no,no,1
+39.0,70.0,1.01,0.0,0.0,,normal,notpresent,notpresent,121.0,20.0,0.8,133.0,3.5,10.9,32,,,no,yes,no,good,no,no,1
+68.0,80.0,1.015,0.0,0.0,,abnormal,notpresent,notpresent,171.0,30.0,1.0,,,13.7,	43,4900,5.2,no,yes,no,good,no,no,1
+37.0,100.0,1.01,0.0,0.0,abnormal,normal,notpresent,notpresent,,19.0,1.3,,,15.0,44,4100,5.2,yes,no,no,good,no,no,1
+67.0,70.0,1.01,1.0,0.0,normal,normal,notpresent,notpresent,,106.0,6.0,137.0,4.9,6.1,19,6500,,yes,no,no,good,no,yes,1
+46.0,60.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,102.0,27.0,0.7,142.0,4.9,13.2,44,11000,5.4,no,no,no,good,no,no,0
+46.0,80.0,1.01,0.0,0.0,,normal,notpresent,notpresent,160.0,40.0,2.0,140.0,4.1,9.0,27,8100,3.2,yes,no,no,poor,no,yes,1
