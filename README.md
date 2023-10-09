@@ -14,10 +14,10 @@
 
 6.	Univariate Analysis
 7.	Bi-variate Analysis
-8.	Explore Numerical features
-9.	Explore Categorical features
+8.	Explore Numerical featuresa and visualize them
+9.	Explore Categorical features and visualize them
 
-### 3.Feature Engineering
+### 3.Feature Engineering - build Pipelines
 
 10.	Handing Missing values
 11.	Handling Outliers
@@ -25,12 +25,16 @@
 13. Categorical Feature Encoding
 14.	Feature scaling
 15.	Imbalanced dataset
+16.	Dimentionality Reduction
 
 ### 4.Model building
 
+17. Cross Validation
+18. Hyperparameter Tuning
+
 ### 5.Feature Selection
-16.	Feature Importance
-17.	Feature Selection
+19.	Feature Importance
+20.	Feature Selection
 
 ### 6.Model Evaluation
 
