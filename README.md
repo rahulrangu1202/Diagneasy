@@ -1,6 +1,6 @@
 # Diagneasy
 
-## The Lifecycle In A Data Science Projects
+## The Lifecycle of A Data Science Project
 
 
 ### 1. Data Gathering
